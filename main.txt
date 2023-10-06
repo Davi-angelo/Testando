@@ -5,3 +5,5 @@ b = 7
 tot = a + b
 
 troquei qualquer coisa
+
+if(a)
